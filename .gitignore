@@ -51,3 +51,4 @@ poetry.lock
 poetry.lock
 /Users/borja/Library/Caches/pypoetry/virtualenvs/
 data/
+/models/rf_model.pkl.gz
